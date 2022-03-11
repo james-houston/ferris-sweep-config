@@ -35,12 +35,12 @@
       "KC_N",
       "KC_M",
       "LT(1,KC_NO)",
-      "LT(2,KC_ENT)",
-      "LT(3,KC_ENT)",
+      "LT(2,KC_PDOT)",
+      "LT(4,KC_ENT)",
       "KC_LSFT",
       "KC_SPC",
       "KC_BSPC",
-      "LT(4,KC_PDOT)"
+      "LT(1,KC_TAB)"
     ],
     [
       "KC_LBRC",
@@ -74,7 +74,7 @@
       "KC_WH_R",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "KC_LCTL",
       "KC_TRNS",
       "KC_TRNS"
     ],
